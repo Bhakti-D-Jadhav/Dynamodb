@@ -1,16 +1,23 @@
 # DynamoDB CRUD Operations
 
 ## AWS Service
+
 Amazon DynamoDB
 
-## Table Name
-Student_Name
+## Table Names
+
+* Student_Name
+* Employee
 
 ## Operations Performed
-- Create Item
-- Read Item
-- Update Item
-- Delete Item
+
+* Create Item
+* Read Item
+* Read All Items
+* Update Item
+* Delete Item
 
 ## Description
-Performed basic CRUD operations using Amazon DynamoDB through AWS Console.
+
+This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using Amazon DynamoDB. The operations were performed through both the AWS Console and Visual Studio Code using Python scripts.
+
